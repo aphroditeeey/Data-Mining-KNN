@@ -1,6 +1,3 @@
-# Data-Mining-KNN
-Analisis customer churn pada dataset e-commerce menggunakan metode K-Nearest Neighbor (KNN) dengan pendekatan preprocessing, normalisasi, dan evaluasi model berbasis metrik klasifikasi.
-
 ## K-Nearest Neighbor (KNN)
 
 K-Nearest Neighbor (KNN) adalah algoritma dalam :contentReference[oaicite:0]{index=0} yang digunakan untuk klasifikasi dengan cara menentukan label suatu data berdasarkan kedekatan dengan data lain.
